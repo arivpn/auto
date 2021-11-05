@@ -1,0 +1,14 @@
+const donasi = () => { 
+	return `       
+
+◪ *DONASI*
+  │
+  ├─ ❏ *DANA*
+  ├─ ❏ 083146208804
+  ├─ ❏ *PULSA*
+  ├─ ❏ 083146208894
+  ├─ ❏ *INSTAGRAM*
+  └─ ❏ https: @cal_me_herman`
+}
+
+exports.donasi = donasi
